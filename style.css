@@ -1,0 +1,90 @@
+.nav{
+    background-color:#3fd9a4;
+    height: 20vh;
+    width: 98vw;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color:black;
+    border-width: 5px;
+    text-align: center;
+    font-size: x-large;
+    padding: 20px;
+    box-sizing: border-box;
+    border-style: solid;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.link1{
+    display:inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    margin-inline: 150px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    padding-inline: 20px;
+    background-color: azure;
+    padding: 15px;
+    border-radius: 20px;
+    border-style: groove;
+    border-width: 10px;
+}
+.link:hover{
+    cursor:pointer;
+    color:red;
+}
+
+#books{
+    font-family: fantasy;
+    display: block;
+    background-color: red;
+    text-align: center;
+    border-radius: 30px;
+    border-width: 10px;
+    border-style: double;
+    border-color: black;
+    margin-top: 5px;
+}
+ #tb{
+    border-style: solid;
+    text-align: center;
+    margin-left: 360px;
+    margin-top: 20px;
+    padding: 40px;
+    background-color: #3fd9a4;
+    border-color:black;
+    border-width:5px ;
+ }
+
+ .register{
+    font-family: fantasy;
+    display: block;
+    background-color: red;
+    text-align: center;
+    border-radius: 30px;
+    border-width: 10px;
+    border-style: double;
+    border-color: black;
+    margin-top: 5px;
+ }
+ 
+ .info{
+    display: inline;
+ }
+ .register>p:hover{
+    cursor: pointer;
+ }
+
+ #rbtn{
+    margin-top: 25px;
+    margin-bottom: 20px;
+    width: 30vw;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px;
+ }
+ #rbtn:hover{
+    color:red;
+    cursor: pointer;
+    border-color: white;
+    border-width: 4px;
+ }
